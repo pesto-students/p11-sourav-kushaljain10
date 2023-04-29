@@ -11,7 +11,7 @@ It has 4 layers:
 **2. What are the different types of web servers, and how do they differ in terms of functionality and performance?**
 There are mainly four types of web servers – Apache, IIS, Nginx and LiteSpeed.
 ### Apache Web Server
-![](https://www.milesweb.in/blog/wp-content/uploads/2019/03/apache-logo.jpg-min-300x165.png)
+![](./apache.png)
 The Apache Software Foundation developed the Apache web server, which is a highly popular open source web server. It supports a wide range of operating systems, including Linux, Windows, Unix FreeBSD, Mac OS X, and more. Apache is used on approximately 60% of all machines that run web servers.
 
 One of the key benefits of Apache is its modular structure, which makes it easy to customize. This means that you can add your own modules to the server to meet your specific requirements. Additionally, Apache is highly stable and easy to administer, making it a reliable choice for web hosting. It can also be successfully installed on multiple platforms.
@@ -19,19 +19,19 @@ One of the key benefits of Apache is its modular structure, which makes it easy 
 The latest versions of Apache offer improved flexibility and the ability to handle more requests than earlier versions. This makes it a great choice for high-traffic websites and web applications.
 
 ### IIS Web Server
-![](https://www.milesweb.in/blog/wp-content/uploads/2019/03/IIS_logo-min-300x136.png)
+![](./iis.png)
 A Microsoft product, IIS is a server that offers all the features such as Apache. Since it’s not an open source, adding personal modules as well as modifying becomes a bit difficult.
 
 It supports all the platforms that run Windows operating system. Additionally, you also get good customer support, if there is any issue.
 
 ### Nginx Web Server
-![](https://www.milesweb.in/blog/wp-content/uploads/2019/03/NGINX-logo-rgb-large-min-300x101.png)
+![](./nginx.png)
 Nginx is the next open source web server after Apache. It comprises of IMAP/POP3 proxy server. The significant features offered by Nginx are high performance, stability, simple configuration and low resource usage.
 
 No threads are used to handle the requests by Nginx, instead a highly scalable event-driven architecture that uses small and predictable amount of memory under load is utilized. It has become popular recently and hosts about 7.5% of all the domains globally. Many web hosting companies have started using this server.
 
 ### LiteSpeed Web Server
-![](https://www.milesweb.in/blog/wp-content/uploads/2019/03/litespeed-logo-min-300x75.png)
+![](./litespeed.png)
 LiteSpeed (LSWS) is a commercial web server that offers high performance and can be used as a drop-in replacement for Apache. It is currently the fourth most popular web server on the internet.
 
 Upgrading to LSWS can lead to improved performance while keeping operating costs low. The server is compatible with common Apache features like .htaccess, mod_rewrite, and mod_security.
